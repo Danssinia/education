@@ -1,0 +1,13 @@
+.course:hover .courses{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    text-transform: none;
+}
+.courses span:hover{
+    color: aqua;
+
+}
+.course:hover{
+    border-bottom: 4px solid orange;
+}

@@ -1,0 +1,9 @@
+.child{
+ display: none;
+    transition: all 2s;
+    z-index: 0;
+}
+.parent:hover .child{
+
+ display: block;
+}
