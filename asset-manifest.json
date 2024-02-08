@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/education/static/css/main.20394436.css",
+    "main.js": "/education/static/js/main.9f02b10e.js",
+    "static/js/787.7734327f.chunk.js": "/education/static/js/787.7734327f.chunk.js",
+    "static/media/elec.jpg": "/education/static/media/elec.0b4056a0b039cddb072d.jpg",
+    "static/media/camera.jpg": "/education/static/media/camera.523f88d005cdc5892bc4.jpg",
+    "static/media/sport.jpg": "/education/static/media/sport.d49f01c723d0f27f0fcb.jpg",
+    "static/media/hero_bg.jpg": "/education/static/media/hero_bg.3c3ff0a12150939047c9.jpg",
+    "static/media/achievment.jpg": "/education/static/media/achievment.d95ed3361414cc3345b1.jpg",
+    "static/media/ms.jpg": "/education/static/media/ms.5f676b0d1a96359aaf1a.jpg",
+    "static/media/env.jpg": "/education/static/media/env.e2d1c2d5c80aa86571da.jpg",
+    "static/media/tcrfm-removebg-preview.png": "/education/static/media/tcrfm-removebg-preview.fd74647f015cbff18ebe.png",
+    "static/media/cam.jpg": "/education/static/media/cam.1a4fe6c211be6d4c3f6a.jpg",
+    "static/media/fash.jpg": "/education/static/media/fash.1dd248b2e2d46a56ef93.jpg",
+    "static/media/dj.jpg": "/education/static/media/dj.9647362667dc98e47bb2.jpg",
+    "static/media/logo.jpg": "/education/static/media/logo.b2441aca69ccb6ee71cd.jpg",
+    "index.html": "/education/index.html",
+    "main.20394436.css.map": "/education/static/css/main.20394436.css.map",
+    "main.9f02b10e.js.map": "/education/static/js/main.9f02b10e.js.map",
+    "787.7734327f.chunk.js.map": "/education/static/js/787.7734327f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20394436.css",
+    "static/js/main.9f02b10e.js"
+  ]
+}
